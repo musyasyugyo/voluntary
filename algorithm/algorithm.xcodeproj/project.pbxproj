@@ -101,13 +101,13 @@
 			path = xib;
 			sourceTree = "<group>";
 		};
-		6419D0AE25E5173500C6A3F4 /* Main */ = {
+		6419D0AE25E5173500C6A3F4 /* Top */ = {
 			isa = PBXGroup;
 			children = (
 				6419D0B725E5198D00C6A3F4 /* MainView.swift */,
 				6419D0C525E51ACA00C6A3F4 /* MainView.xib */,
 			);
-			path = Main;
+			path = Top;
 			sourceTree = "<group>";
 		};
 		64D870A925D41DA900FD3E64 = {
@@ -215,7 +215,7 @@
 		64D870EE25D41E4E00FD3E64 /* view */ = {
 			isa = PBXGroup;
 			children = (
-				6419D0AE25E5173500C6A3F4 /* Main */,
+				6419D0AE25E5173500C6A3F4 /* Top */,
 				64D870EF25D41E5C00FD3E64 /* storyboard */,
 			);
 			path = view;

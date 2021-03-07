@@ -10,7 +10,7 @@
         <!--MainTabBar-->
         <scene sceneID="9CZ-dx-nR9">
             <objects>
-                <tabBarController title="MainTabBar" id="rIe-k8-g0S" customClass="MainTabBarController" customModule="algorithm" customModuleProvider="target" sceneMemberID="viewController">
+                <tabBarController title="MainTabBar" id="rIe-k8-g0S" customClass="MainTabBarViewController" customModule="algorithm" customModuleProvider="target" sceneMemberID="viewController">
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="RUS-rq-c8c">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="49"/>
                         <autoresizingMask key="autoresizingMask"/>
